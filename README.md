@@ -1,2 +1,4 @@
 # hello-world
-a test repository for beginner
+a test repository for beginner.
+
+first changes made.
